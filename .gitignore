@@ -1,0 +1,6 @@
+/target
+.idea
+GitHubTrendingPush.iml
+GitHubTrendingPushLog
+dependency-reduced-pom.xml
+db.properties
